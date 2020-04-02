@@ -2,4 +2,5 @@
 This Repo contains the solutions of all the questions that were asked in Leet code 30 days challenge
 
 1. SingleNumber
+2. Happy Number<br/>
 Maybe gonna do more....
