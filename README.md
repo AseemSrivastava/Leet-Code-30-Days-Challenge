@@ -4,4 +4,5 @@ This Repo contains the approach & solution of all the questions that were asked 
 1. SingleNumber
 2. Happy Number<br/>
 3. Maximum Subarray<br/>
+4. Move Zeroes<br/>
 Maybe gonna do more....
