@@ -5,5 +5,6 @@ This Repo contains the approach & solution of all the questions that were asked 
 2. Happy Number<br/>
 3. Maximum Subarray<br/>
 4. Move Zeroes<br/>
-5. Best Time To Buy And Sell Stock ||
+5. Best Time To Buy And Sell Stock ||<br/>
+6. Group Anagrams<br/>
 Maybe gonna do more....
