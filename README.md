@@ -5,4 +5,5 @@ This Repo contains the approach & solution of all the questions that were asked 
 2. Happy Number<br/>
 3. Maximum Subarray<br/>
 4. Move Zeroes<br/>
+5. Best Time To Buy And Sell Stock ||
 Maybe gonna do more....
