@@ -1,4 +1,4 @@
-<p align:"center">
+<p align="center">
   <img src="https://github.com/akbloodadarsh/Leet-Code-30-Days-Challenge/blob/master/Leetcodebanner.png">
 </p>
 # Leet-Code-30-Days-Challenge
