@@ -7,4 +7,5 @@ This Repo contains the approach & solution of all the questions that were asked 
 4. Move Zeroes<br/>
 5. Best Time To Buy And Sell Stock ||<br/>
 6. Group Anagrams<br/>
+7. Counting elements<br/>
 Maybe gonna do more....
