@@ -5,9 +5,9 @@
 
 ** Add this after closing the class for a little boost
 
-static auto speedup = []()
-{
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    return 0;
+static auto speedup = []()<br/>
+{<br/>
+    ios::sync_with_stdio(false);<br/>
+    cin.tie(0);<br/>
+    return 0;<br/>
 }();
