@@ -21,3 +21,5 @@ static auto fast=[](){
         cin.tie(NULL);
     return 0;
 }();
+
+// This isn't the optimal one
