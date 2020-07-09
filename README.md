@@ -1,10 +1,13 @@
-# Leet-Code-30-Days-Challenge
-This Repo contains the approach & solution of all the questions that were asked in Leet code 30 days challenge
+<p align="center">
+  <img src="https://github.com/akbloodadarsh/Leet-Code-30-Days-Challenge/blob/master/Leetcodebanner.png">
+</p>
+**This Repo contains the approach & solution of all the questions that were asked in Leet code 30 days challenge**
 
-1. SingleNumber
-2. Happy Number<br/>
-3. Maximum Subarray<br/>
-4. Move Zeroes<br/>
-5. Best Time To Buy And Sell Stock ||<br/>
-6. Group Anagrams<br/>
-Maybe gonna do more....
+** Add this after closing the class for a little boost
+
+static auto speedup = []()<br/>
+{<br/>
+    ios::sync_with_stdio(false);<br/>
+    cin.tie(0);<br/>
+    return 0;<br/>
+}();
